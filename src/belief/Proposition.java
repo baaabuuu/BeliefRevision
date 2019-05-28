@@ -51,8 +51,9 @@ public class Proposition implements Belief
 		return new Proposition(identifier);
 	}
 	@Override
-	public void cuptupList(HashSet<Belief> belief)
+	public HashSet<Belief> cuptupList(HashSet<Belief> belief)
 	{
+		return new HashSet<Belief>();
 	}
 	
 	@Override

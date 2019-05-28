@@ -58,8 +58,9 @@ public class IfAndOnlyIf implements Belief
 	}
 	
 	@Override
-	public void cuptupList(HashSet<Belief> belief)
+	public HashSet<Belief> cuptupList(HashSet<Belief> belief)
 	{
+		return new HashSet<Belief>();
 	}
 
 	@Override

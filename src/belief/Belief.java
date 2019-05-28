@@ -13,5 +13,6 @@ public interface Belief
 	public Belief getCNFAndOverOr();
 	public Belief getOGbelief();
 	public Belief getOGbelief2();
-	public void cuptupList(HashSet<Belief> belief);
+	public HashSet<Belief> cuptupList(HashSet<Belief> belief);
+	
 }

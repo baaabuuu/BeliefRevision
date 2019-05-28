@@ -52,27 +52,31 @@ public class And implements Belief
 	}
 
 	@Override
-	public void cuptupList(HashSet<Belief> belief)
+	public HashSet<Belief> cuptupList(HashSet<Belief> belief)
 	{
+		HashSet<Belief> result = new HashSet<Belief>();
 		if (ogBelief1 instanceof And)
 		{
-			ogBelief1.cuptupList(belief);
+			result.addAll(ogBelief1.cuptupList(belief));
 
 		}
 		else
 		{
-			belief.add(ogBelief1);
+			result.add(ogBelief1);
 		}
 		if (ogBelief2 instanceof And)
 		{
-			ogBelief2.cuptupList(belief);	
+			result.addAll(ogBelief2.cuptupList(belief));
+
 		}
 		else
 		{
-			belief.add(ogBelief2);
+			result.add(ogBelief2);
 		}
-
+		return result;
 	}
+	
+	
 
 	public Belief moveNegationInwards() {
 		return new And(ogBelief1.moveNegationInwards(), ogBelief2.moveNegationInwards());

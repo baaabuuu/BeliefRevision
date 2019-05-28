@@ -247,3 +247,683 @@
 [11:10:24][RBeliefBase][SpookyResolution] [!P, Q]
 [11:10:24][RBeliefBase][SpookyResolution] [P]
 [11:10:24][RBeliefBase][SpookyResolution] Then we know that:
+[12:11:21][RBeliefBase][SpookyResolution] our nodes are:
+[12:11:21][RBeliefBase][SpookyResolution] [Q]
+[12:11:21][RBeliefBase][SpookyResolution] [!P, Q]
+[12:11:21][RBeliefBase][SpookyResolution] [P]
+[12:11:21][RBeliefBase][SpookyResolution] Then we know that:
+[12:11:38][RBeliefBase][SpookyResolution] our nodes are:
+[12:11:38][RBeliefBase][SpookyResolution] [Q]
+[12:11:38][RBeliefBase][SpookyResolution] [!P, Q]
+[12:11:38][RBeliefBase][SpookyResolution] [P]
+[12:11:38][RBeliefBase][SpookyResolution] Then we know that:
+[13:43:42][RBeliefBase][extractLiterals] [!P, Q]
+[13:43:42][RBeliefBase][extractLiterals] [!Q]
+[13:43:42][RBeliefBase][extractLiterals] [P]
+[13:49:01][RBeliefBase][extractLiterals] [!P, Q]
+[13:49:01][RBeliefBase][extractLiterals] [!Q]
+[13:49:01][RBeliefBase][extractLiterals] [P]
+[14:12:05][RBeliefBase][extractLiterals] [!R]
+[14:12:05][RBeliefBase][extractLiterals] [P]
+[14:12:05][RBeliefBase][extractLiterals] [R, !Q]
+[14:12:05][RBeliefBase][extractLiterals] [!R]
+[14:12:05][RBeliefBase][extractLiterals] [Q, !P]
+[14:18:02][RBeliefBase][extractLiterals] [!R]
+[14:18:02][RBeliefBase][extractLiterals] [P]
+[14:18:02][RBeliefBase][extractLiterals] [!Q, R]
+[14:18:02][RBeliefBase][extractLiterals] [!R]
+[14:18:02][RBeliefBase][extractLiterals] [!P, Q]
+[14:30:08][RBeliefBase][extractLiterals] [!R]
+[14:30:08][RBeliefBase][extractLiterals] [P]
+[14:30:08][RBeliefBase][extractLiterals] [!Q, R]
+[14:30:08][RBeliefBase][extractLiterals] [!R]
+[14:30:08][RBeliefBase][extractLiterals] [!P, Q]
+[14:30:08][RBeliefBase][resolve] []
+[14:30:08][RBeliefBase][resolve] []
+[14:30:08][RBeliefBase][resolve] []
+[14:30:08][RBeliefBase][resolve] []
+[14:36:48][RBeliefBase][extractLiterals] [!R]
+[14:36:48][RBeliefBase][extractLiterals] [P]
+[14:36:48][RBeliefBase][extractLiterals] [!Q, R]
+[14:36:48][RBeliefBase][extractLiterals] [!R]
+[14:36:48][RBeliefBase][extractLiterals] [!P, Q]
+[14:36:48][RBeliefBase][resolve] []
+[14:36:48][RBeliefBase][resolve] []
+[14:36:48][RBeliefBase][resolve] []
+[14:36:48][RBeliefBase][resolve] []
+[14:51:16][RBeliefBase][extractLiterals] [P]
+[14:51:16][RBeliefBase][extractLiterals] [!Q, R]
+[14:51:16][RBeliefBase][extractLiterals] [!R]
+[14:51:16][RBeliefBase][extractLiterals] [!P, Q]
+[14:51:16][RBeliefBase][resolve] [[P], [!R], [!Q, R], [!P, Q]]
+[16:00:50][RBeliefBase][extractLiterals] [P]
+[16:00:50][RBeliefBase][extractLiterals] [!Q, R]
+[16:00:50][RBeliefBase][extractLiterals] [!R]
+[16:00:50][RBeliefBase][extractLiterals] [!P, Q]
+[16:01:12][RBeliefBase][extractLiterals] [P]
+[16:01:12][RBeliefBase][extractLiterals] [!Q, R]
+[16:01:12][RBeliefBase][extractLiterals] [!R]
+[16:01:12][RBeliefBase][extractLiterals] [!P, Q]
+[16:03:56][RBeliefBase][extractLiterals] [P]
+[16:03:56][RBeliefBase][extractLiterals] [!Q, R]
+[16:03:56][RBeliefBase][extractLiterals] [!R]
+[16:03:56][RBeliefBase][extractLiterals] [!P, Q]
+[16:07:59][RBeliefBase][extractLiterals] [P]
+[16:07:59][RBeliefBase][extractLiterals] [!Q, R]
+[16:07:59][RBeliefBase][extractLiterals] [!R]
+[16:07:59][RBeliefBase][extractLiterals] [!P, Q]
+[16:12:14][RBeliefBase][extractLiterals] [P]
+[16:12:14][RBeliefBase][extractLiterals] [!Q, R]
+[16:12:14][RBeliefBase][extractLiterals] [!R]
+[16:12:14][RBeliefBase][extractLiterals] [!P, Q]
+[16:13:46][RBeliefBase][extractLiterals] [P]
+[16:13:53][RBeliefBase][extractLiterals] [R, !Q]
+[16:14:03][RBeliefBase][extractLiterals] [!P, Q]
+[16:14:03][RBeliefBase][extractLiterals] [!R]
+[16:14:29][RBeliefBase][extractLiterals] [P]
+[16:14:29][RBeliefBase][extractLiterals] [R, !Q]
+[16:14:29][RBeliefBase][extractLiterals] [!P, Q]
+[16:14:29][RBeliefBase][extractLiterals] [!R]
+[16:15:40][RBeliefBase][extractLiterals] [P]
+[16:15:40][RBeliefBase][extractLiterals] [R, !Q]
+[16:15:40][RBeliefBase][extractLiterals] [!P, Q]
+[16:15:40][RBeliefBase][extractLiterals] [!R]
+[16:15:48][RBeliefBase][extractLiterals] [P]
+[16:15:48][RBeliefBase][extractLiterals] [R, !Q]
+[16:15:48][RBeliefBase][extractLiterals] [!P, Q]
+[16:15:48][RBeliefBase][extractLiterals] [!R]
+[16:15:48][RBeliefBase][resolve] Resolved: [[P], [!R], [Q], [!Q], [R, !Q], [!P, Q], [!P, R], [Q], [R], [!Q], [!P], [], [R], [!P], [!P, R]]
+[16:21:40][RBeliefBase][extractLiterals] [P]
+[16:21:40][RBeliefBase][extractLiterals] [!Q, R]
+[16:21:40][RBeliefBase][extractLiterals] [!R]
+[16:21:40][RBeliefBase][extractLiterals] [!P, Q]
+[16:21:40][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[16:25:43][RBeliefBase][extractLiterals] [P]
+[16:25:43][RBeliefBase][extractLiterals] [!Q, R]
+[16:25:43][RBeliefBase][extractLiterals] [!R]
+[16:25:43][RBeliefBase][extractLiterals] [!P, Q]
+[16:25:43][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[16:25:44][RBeliefBase][extractLiterals] [P]
+[16:25:44][RBeliefBase][extractLiterals] [!Q, R]
+[16:25:44][RBeliefBase][extractLiterals] [!R]
+[16:25:44][RBeliefBase][extractLiterals] [!P, Q]
+[16:25:44][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[16:25:45][RBeliefBase][extractLiterals] [P]
+[16:25:45][RBeliefBase][extractLiterals] [!Q, R]
+[16:25:45][RBeliefBase][extractLiterals] [!R]
+[16:25:45][RBeliefBase][extractLiterals] [!P, Q]
+[16:25:45][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[16:25:46][RBeliefBase][extractLiterals] [P]
+[16:25:46][RBeliefBase][extractLiterals] [!Q, R]
+[16:25:46][RBeliefBase][extractLiterals] [!R]
+[16:25:46][RBeliefBase][extractLiterals] [!P, Q]
+[16:25:46][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[16:26:50][RBeliefBase][extractLiterals] [P]
+[16:26:50][RBeliefBase][extractLiterals] [!Q, R]
+[16:26:50][RBeliefBase][extractLiterals] [!R]
+[16:26:50][RBeliefBase][extractLiterals] [!P, Q]
+[16:26:50][RBeliefBase][resolve] [[P], [!R], [!Q, R], [!P, Q], [Q], [!Q], [!P, R]]
+[16:26:50][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [!Q, R], [!P, Q], [!P, R], [Q], [R], [!Q], [!P], [], [R], [!P], [!P, R]]
+[16:26:50][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[17:56:54][RBeliefBase][extractLiterals] [P]
+[17:56:54][RBeliefBase][extractLiterals] [!Q, R]
+[17:56:54][RBeliefBase][extractLiterals] [!R]
+[17:56:54][RBeliefBase][extractLiterals] [!P, Q]
+[17:56:54][RBeliefBase][resolve] [[P], [!R], [!Q, R], [!P, Q], [Q], [!Q], [!P, R]]
+[17:56:54][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [!Q, R], [!P, Q], [!P, R], [Q], [R], [!Q], [!P], [], [R], [!P], [!P, R]]
+[17:56:54][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[17:58:31][RBeliefBase][extractLiterals] [P]
+[17:58:31][RBeliefBase][extractLiterals] [!Q, R]
+[17:58:31][RBeliefBase][extractLiterals] [!R]
+[17:58:31][RBeliefBase][extractLiterals] [!P, Q]
+[17:58:31][RBeliefBase][resolve] [[P], [!R], [!Q, R], [!P, Q]]
+[17:58:31][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [!Q, R], [!P, Q], [!P, R]]
+[17:58:31][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[19:46:34][RBeliefBase][main] {P=0, (!Q \/ R)=1, (!P \/ Q)=2}
+[19:46:34][RBeliefBase][extractLiterals] [P]
+[19:46:34][RBeliefBase][extractLiterals] [!Q, R]
+[19:46:34][RBeliefBase][extractLiterals] [!R]
+[19:46:34][RBeliefBase][extractLiterals] [!P, Q]
+[19:46:34][RBeliefBase][resolve] [[P], [!R], [!Q, R], [!P, Q]]
+[19:46:34][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [!Q, R], [!P, Q], [!P, R]]
+[19:46:34][RBeliefBase][resolve] Resolved: [[], [!Q], [P], [!P, Q], [!R], [!P, R], [!Q, R], [!P], [R], [Q]]
+[19:47:12][RBeliefBase][main] {(!R \/ Q)=1, P=0, (!Q \/ R)=1, (!P \/ Q)=2}
+[19:47:12][RBeliefBase][extractLiterals] [!R, Q]
+[19:47:12][RBeliefBase][extractLiterals] [!R]
+[19:47:12][RBeliefBase][extractLiterals] [P]
+[19:47:12][RBeliefBase][extractLiterals] [R, !Q]
+[19:47:12][RBeliefBase][extractLiterals] [Q, !P]
+[19:47:12][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[19:47:12][RBeliefBase][resolve] [[!R], [P], [!Q], [Q], [!R, Q], [R, !Q], [Q, !P], [!Q, Q], [R, !R], [R, !P]]
+[19:47:12][RBeliefBase][resolve] Resolved: [[!Q, Q], [], [Q, !P], [!P, Q], [!R], [Q], [!Q], [!R], [Q], [R, !P], [P], [R], [!R, Q], [R, !R], [!P], [R, !Q]]
+[19:49:17][RBeliefBase][main] {(!R \/ Q)=1, P=0, (!Q \/ R)=1, (!P \/ Q)=2}
+[19:49:17][RBeliefBase][extractLiterals] [!R, Q]
+[19:49:17][RBeliefBase][extractLiterals] [!R]
+[19:49:17][RBeliefBase][extractLiterals] [P]
+[19:49:17][RBeliefBase][extractLiterals] [R, !Q]
+[19:49:17][RBeliefBase][extractLiterals] [Q, !P]
+[19:49:17][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[19:49:17][RBeliefBase][resolve] [[!R], [P], [!Q], [Q], [!R, Q], [R, !Q], [Q, !P], [!Q, Q], [R, !R], [R, !P]]
+[19:49:17][RBeliefBase][resolve] Resolved: [[!Q, Q], [], [Q, !P], [!P, Q], [!R], [Q], [!Q], [!R], [Q], [R, !P], [P], [R], [!R, Q], [R, !R], [!P], [R, !Q]]
+[22:23:57][RBeliefBase][main] {(!R \/ Q)=[1], P=[0], (!Q \/ R)=[1], (!P \/ Q)=[2]}
+[22:23:57][RBeliefBase][extractLiterals] [!R, Q]
+[22:23:57][RBeliefBase][extractLiterals] [!R]
+[22:23:57][RBeliefBase][extractLiterals] [P]
+[22:23:57][RBeliefBase][extractLiterals] [R, !Q]
+[22:23:57][RBeliefBase][extractLiterals] [Q, !P]
+[22:23:57][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[22:23:57][RBeliefBase][resolve] [[!R], [P], [!Q], [Q], [!R, Q], [R, !Q], [Q, !P], [!Q, Q], [R, !R], [R, !P]]
+[22:23:57][RBeliefBase][resolve] Resolved: [[!Q, Q], [], [Q, !P], [!P, Q], [!R], [Q], [!Q], [!R], [Q], [R, !P], [P], [R], [!R, Q], [R, !R], [!P], [R, !Q]]
+[22:26:04][RBeliefBase][main] {(!R \/ Q)=[1], P=[0], (!Q \/ R)=[1], (!P \/ Q)=[2]}
+[22:26:04][RBeliefBase][extractLiterals] [!R, Q]
+[22:26:04][RBeliefBase][extractLiterals] [!R]
+[22:26:04][RBeliefBase][extractLiterals] [P]
+[22:26:04][RBeliefBase][extractLiterals] [R, !Q]
+[22:26:04][RBeliefBase][extractLiterals] [Q, !P]
+[22:26:04][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[22:26:19][RBeliefBase][main] {(!R \/ Q)=[1], P=[0], (!Q \/ R)=[1], (!P \/ Q)=[2]}
+[22:26:19][RBeliefBase][extractLiterals] [!R, Q]
+[22:26:19][RBeliefBase][extractLiterals] [!R]
+[22:26:19][RBeliefBase][extractLiterals] [P]
+[22:26:19][RBeliefBase][extractLiterals] [R, !Q]
+[22:26:19][RBeliefBase][extractLiterals] [Q, !P]
+[22:26:19][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[22:27:03][RBeliefBase][main] {(!R \/ Q)=[1], P=[0], (!Q \/ R)=[1], (!P \/ Q)=[2]}
+[22:27:03][RBeliefBase][extractLiterals] [!R, Q]
+[22:27:03][RBeliefBase][extractLiterals] [!R]
+[22:27:03][RBeliefBase][extractLiterals] [P]
+[22:27:03][RBeliefBase][extractLiterals] [R, !Q]
+[22:27:03][RBeliefBase][extractLiterals] [Q, !P]
+[22:27:03][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[22:27:13][RBeliefBase][main] {(!R \/ Q)=[1], P=[0], (!Q \/ R)=[1], (!P \/ Q)=[2]}
+[22:27:13][RBeliefBase][extractLiterals] [!R, Q]
+[22:27:13][RBeliefBase][extractLiterals] [!R]
+[22:27:13][RBeliefBase][extractLiterals] [P]
+[22:27:13][RBeliefBase][extractLiterals] [R, !Q]
+[22:27:13][RBeliefBase][extractLiterals] [Q, !P]
+[22:27:13][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [Q, !P]]
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][resolve] [[!R], [P], [!Q], [Q], [!R, Q], [R, !Q], [Q, !P], [!Q, Q], [R, !R], [R, !P]]
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][tryResolve] 4
+[22:27:13][RBeliefBase][resolve] Resolved: [[!Q, Q], [], [Q, !P], [!P, Q], [!R], [Q], [!Q], [!R], [Q], [R, !P], [P], [R], [!R, Q], [R, !R], [!P], [R, !Q]]
+[22:31:47][RBeliefBase][extractLiterals] [P]
+[22:31:47][RBeliefBase][extractLiterals] [Q, !R]
+[22:31:47][RBeliefBase][extractLiterals] [R, !Q]
+[22:31:47][RBeliefBase][extractLiterals] [!P, Q]
+[22:31:47][RBeliefBase][main] {[!P, Q]=[2], [P]=[0], [R, !Q]=[1], [Q, !R]=[1]}
+[22:31:47][RBeliefBase][extractLiterals] [Q, !R]
+[22:31:47][RBeliefBase][extractLiterals] [P]
+[22:31:47][RBeliefBase][extractLiterals] [R, !Q]
+[22:31:47][RBeliefBase][extractLiterals] [!P, Q]
+[22:31:47][RBeliefBase][extractLiterals] [!R]
+[22:31:47][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[22:32:06][RBeliefBase][extractLiterals] [P]
+[22:32:06][RBeliefBase][extractLiterals] [Q, !R]
+[22:32:06][RBeliefBase][extractLiterals] [R, !Q]
+[22:32:06][RBeliefBase][extractLiterals] [!P, Q]
+[22:32:06][RBeliefBase][main] {[!P, Q]=[2], [P]=[0], [R, !Q]=[1], [Q, !R]=[1]}
+[22:32:06][RBeliefBase][extractLiterals] [Q, !R]
+[22:32:06][RBeliefBase][extractLiterals] [P]
+[22:32:06][RBeliefBase][extractLiterals] [R, !Q]
+[22:32:06][RBeliefBase][extractLiterals] [!P, Q]
+[22:32:06][RBeliefBase][extractLiterals] [!R]
+[22:32:06][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[22:32:18][RBeliefBase][extractLiterals] [P]
+[22:32:18][RBeliefBase][extractLiterals] [Q, !R]
+[22:32:18][RBeliefBase][extractLiterals] [R, !Q]
+[22:32:18][RBeliefBase][extractLiterals] [!P, Q]
+[22:32:18][RBeliefBase][main] {[!P, Q]=[2], [P]=[0], [R, !Q]=[1], [Q, !R]=[1]}
+[22:32:18][RBeliefBase][extractLiterals] [Q, !R]
+[22:32:18][RBeliefBase][extractLiterals] [P]
+[22:32:18][RBeliefBase][extractLiterals] [R, !Q]
+[22:32:18][RBeliefBase][extractLiterals] [!P, Q]
+[22:32:18][RBeliefBase][extractLiterals] [!R]
+[22:32:18][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[22:32:18][RBeliefBase][tryResolve] [0]
+[22:32:41][RBeliefBase][extractLiterals] [P]
+[22:32:41][RBeliefBase][extractLiterals] [Q, !R]
+[22:32:41][RBeliefBase][extractLiterals] [R, !Q]
+[22:32:41][RBeliefBase][extractLiterals] [!P, Q]
+[22:32:41][RBeliefBase][main] {[!P, Q]=[2], [P]=[0], [R, !Q]=[1], [Q, !R]=[1]}
+[22:32:41][RBeliefBase][extractLiterals] [Q, !R]
+[22:32:41][RBeliefBase][extractLiterals] [P]
+[22:32:41][RBeliefBase][extractLiterals] [R, !Q]
+[22:32:41][RBeliefBase][extractLiterals] [!P, Q]
+[22:32:41][RBeliefBase][extractLiterals] [!R]
+[22:32:41][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[22:32:41][RBeliefBase][tryResolve] [2]
+[22:32:41][RBeliefBase][tryResolve] [1]
+[22:32:41][RBeliefBase][tryResolve] [1]
+[22:32:41][RBeliefBase][tryResolve] [1]
+[22:32:41][RBeliefBase][tryResolve] [2]
+[22:32:41][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [Q, !R], [R, !Q], [!P, Q], [!R, R], [Q, !Q], [!P, R]]
+[22:32:41][RBeliefBase][tryResolve] [2]
+[22:33:24][RBeliefBase][extractLiterals] [!R, Q]
+[22:33:24][RBeliefBase][extractLiterals] [R, !Q]
+[22:33:24][RBeliefBase][extractLiterals] [P]
+[22:33:24][RBeliefBase][extractLiterals] [!P, Q]
+[22:33:24][RBeliefBase][main] {[!R, Q]=[0], [!P, Q]=[2], [P]=[1], [R, !Q]=[0]}
+[22:33:24][RBeliefBase][extractLiterals] [!R, Q]
+[22:33:24][RBeliefBase][extractLiterals] [!R]
+[22:33:24][RBeliefBase][extractLiterals] [R, !Q]
+[22:33:24][RBeliefBase][extractLiterals] [P]
+[22:33:24][RBeliefBase][extractLiterals] [!P, Q]
+[22:33:24][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[22:33:52][RBeliefBase][extractLiterals] [!R, Q]
+[22:33:52][RBeliefBase][extractLiterals] [R, !Q]
+[22:33:52][RBeliefBase][extractLiterals] [P]
+[22:33:52][RBeliefBase][extractLiterals] [!P, Q]
+[22:33:52][RBeliefBase][main] {[!R, Q]=[0], [!P, Q]=[2], [P]=[1], [R, !Q]=[0]}
+[22:33:52][RBeliefBase][extractLiterals] [!R, Q]
+[22:33:52][RBeliefBase][extractLiterals] [!R]
+[22:33:52][RBeliefBase][extractLiterals] [R, !Q]
+[22:33:52][RBeliefBase][extractLiterals] [P]
+[22:33:52][RBeliefBase][extractLiterals] [!P, Q]
+[22:33:52][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[22:34:05][RBeliefBase][extractLiterals] [!R, Q]
+[22:34:05][RBeliefBase][extractLiterals] [R, !Q]
+[22:34:05][RBeliefBase][extractLiterals] [P]
+[22:34:05][RBeliefBase][extractLiterals] [!P, Q]
+[22:34:05][RBeliefBase][main] {[!R, Q]=[0], [!P, Q]=[2], [P]=[1], [R, !Q]=[0]}
+[22:34:05][RBeliefBase][extractLiterals] [!R, Q]
+[22:34:05][RBeliefBase][extractLiterals] [!R]
+[22:34:05][RBeliefBase][extractLiterals] [R, !Q]
+[22:34:05][RBeliefBase][extractLiterals] [P]
+[22:34:05][RBeliefBase][extractLiterals] [!P, Q]
+[22:34:05][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[22:35:29][RBeliefBase][extractLiterals] [P]
+[22:35:29][RBeliefBase][extractLiterals] [Q, !R]
+[22:35:29][RBeliefBase][extractLiterals] [R, !Q]
+[22:35:29][RBeliefBase][extractLiterals] [!P, Q]
+[22:35:29][RBeliefBase][main] {[!P, Q]=[2], [P]=[0], [R, !Q]=[1], [Q, !R]=[1]}
+[22:35:29][RBeliefBase][extractLiterals] [Q, !R]
+[22:35:29][RBeliefBase][extractLiterals] [P]
+[22:35:29][RBeliefBase][extractLiterals] [R, !Q]
+[22:35:29][RBeliefBase][extractLiterals] [!P, Q]
+[22:35:29][RBeliefBase][extractLiterals] [!R]
+[22:35:29][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[22:35:29][RBeliefBase][tryResolve] [0]
+[22:35:51][RBeliefBase][extractLiterals] [!R, Q]
+[22:35:51][RBeliefBase][extractLiterals] [R, !Q]
+[22:35:51][RBeliefBase][extractLiterals] [P]
+[22:35:51][RBeliefBase][extractLiterals] [!P, Q]
+[22:35:51][RBeliefBase][main] {[!R, Q]=[0], [!P, Q]=[2], [P]=[1], [R, !Q]=[0]}
+[22:35:51][RBeliefBase][extractLiterals] [!R, Q]
+[22:35:51][RBeliefBase][extractLiterals] [!R]
+[22:35:51][RBeliefBase][extractLiterals] [R, !Q]
+[22:35:51][RBeliefBase][extractLiterals] [P]
+[22:35:51][RBeliefBase][extractLiterals] [!P, Q]
+[22:35:51][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[22:36:05][RBeliefBase][extractLiterals] [!R, Q]
+[22:36:05][RBeliefBase][extractLiterals] [R, !Q]
+[22:36:05][RBeliefBase][extractLiterals] [P]
+[22:36:05][RBeliefBase][extractLiterals] [!P, Q]
+[22:36:05][RBeliefBase][main] {[!R, Q]=[0], [!P, Q]=[2], [P]=[1], [R, !Q]=[0]}
+[22:36:05][RBeliefBase][extractLiterals] [!R, Q]
+[22:36:05][RBeliefBase][extractLiterals] [!R]
+[22:36:05][RBeliefBase][extractLiterals] [R, !Q]
+[22:36:05][RBeliefBase][extractLiterals] [P]
+[22:36:05][RBeliefBase][extractLiterals] [!P, Q]
+[22:36:05][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[22:45:37][RBeliefBase][extractLiterals] [P]
+[22:45:37][RBeliefBase][extractLiterals] [Q, !R]
+[22:45:37][RBeliefBase][extractLiterals] [R, !Q]
+[22:45:37][RBeliefBase][extractLiterals] [!P, Q]
+[22:45:38][RBeliefBase][extractLiterals] [Q, !R]
+[22:45:38][RBeliefBase][extractLiterals] [P]
+[22:45:38][RBeliefBase][extractLiterals] [R, !Q]
+[22:45:38][RBeliefBase][extractLiterals] [!P, Q]
+[22:45:38][RBeliefBase][extractLiterals] [!R]
+[22:45:38][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[22:45:38][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [Q, !R], [R, !Q], [!P, Q], [!R, R], [Q, !Q], [!P, R]]
+[22:45:38][RBeliefBase][resolve] Resolved: [[], [!P], [Q], [!R], [R, !Q], [!Q], [Q, !R], [!P, Q], [Q], [R], [!P, R], [P], [!R, R], [Q, !Q], [!R], [Q, !P]]
+[23:01:27][RBeliefBase][extractLiterals] [P]
+[23:01:27][RBeliefBase][extractLiterals] [Q, !R]
+[23:01:27][RBeliefBase][extractLiterals] [R, !Q]
+[23:01:27][RBeliefBase][extractLiterals] [!P, Q]
+[23:01:27][RBeliefBase][extractLiterals] [Q, !R]
+[23:01:27][RBeliefBase][extractLiterals] [P]
+[23:01:27][RBeliefBase][extractLiterals] [R, !Q]
+[23:01:27][RBeliefBase][extractLiterals] [!P, Q]
+[23:01:27][RBeliefBase][extractLiterals] [!R]
+[23:01:27][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:01:27][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [Q, !R], [R, !Q], [!P, Q], [!R, R], [Q, !Q], [!P, R]]
+[23:01:27][RBeliefBase][resolve] Resolved: [[], [!P], [Q], [!R], [R, !Q], [!Q], [Q, !R], [!P, Q], [Q], [R], [!P, R], [P], [!R, R], [Q, !Q], [!R], [Q, !P]]
+[23:01:48][RBeliefBase][extractLiterals] [P]
+[23:01:48][RBeliefBase][extractLiterals] [Q, !R]
+[23:01:48][RBeliefBase][extractLiterals] [R, !Q]
+[23:01:48][RBeliefBase][extractLiterals] [!P, Q]
+[23:01:48][RBeliefBase][extractLiterals] [Q, !R]
+[23:01:48][RBeliefBase][extractLiterals] [P]
+[23:01:48][RBeliefBase][extractLiterals] [R, !Q]
+[23:01:48][RBeliefBase][extractLiterals] [!P, Q]
+[23:01:48][RBeliefBase][extractLiterals] [!R]
+[23:01:48][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [Q, !R], [R, !Q], [!P, Q], [!R, R], [Q, !Q], [!P, R]]
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][tryResolve] {[P]={}, [Q, !R]={}, [R, !Q]={}, [!P, Q]={}}
+[23:01:48][RBeliefBase][resolve] Resolved: [[], [!P], [Q], [!R], [R, !Q], [!Q], [Q, !R], [!P, Q], [Q], [R], [!P, R], [P], [!R, R], [Q, !Q], [!R], [Q, !P]]
+[23:03:27][RBeliefBase][extractLiterals] [P]
+[23:03:27][RBeliefBase][extractLiterals] [Q, !R]
+[23:03:27][RBeliefBase][extractLiterals] [R, !Q]
+[23:03:27][RBeliefBase][extractLiterals] [!P, Q]
+[23:03:27][RBeliefBase][extractLiterals] [Q, !R]
+[23:03:27][RBeliefBase][extractLiterals] [P]
+[23:03:27][RBeliefBase][extractLiterals] [R, !Q]
+[23:03:27][RBeliefBase][extractLiterals] [!P, Q]
+[23:03:27][RBeliefBase][extractLiterals] [!R]
+[23:03:27][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [Q, !R], [R, !Q], [!P, Q], [!R, R], [Q, !Q], [!P, R]]
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:03:27][RBeliefBase][resolve] Resolved: [[], [!P], [Q], [!R], [R, !Q], [!Q], [Q, !R], [!P, Q], [Q], [R], [!P, R], [P], [!R, R], [Q, !Q], [!R], [Q, !P]]
+[23:07:57][RBeliefBase][extractLiterals] [P]
+[23:07:57][RBeliefBase][extractLiterals] [Q, !R]
+[23:07:57][RBeliefBase][extractLiterals] [R, !Q]
+[23:07:57][RBeliefBase][extractLiterals] [!P, Q]
+[23:07:57][RBeliefBase][extractLiterals] [Q, !R]
+[23:07:57][RBeliefBase][extractLiterals] [P]
+[23:07:57][RBeliefBase][extractLiterals] [R, !Q]
+[23:07:57][RBeliefBase][extractLiterals] [!P, Q]
+[23:07:57][RBeliefBase][extractLiterals] [!R]
+[23:07:57][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:07:57][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:07:57][RBeliefBase][extractLiterals] [P]
+[23:07:57][RBeliefBase][extractLiterals] [!P]
+[23:08:14][RBeliefBase][extractLiterals] [!R, Q]
+[23:08:14][RBeliefBase][extractLiterals] [R, !Q]
+[23:08:14][RBeliefBase][extractLiterals] [P]
+[23:08:14][RBeliefBase][extractLiterals] [!P, Q]
+[23:08:14][RBeliefBase][extractLiterals] [!R, Q]
+[23:08:14][RBeliefBase][extractLiterals] [R, !Q]
+[23:08:14][RBeliefBase][extractLiterals] [!R]
+[23:08:14][RBeliefBase][extractLiterals] [P]
+[23:08:14][RBeliefBase][extractLiterals] [!P, Q]
+[23:08:14][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:08:14][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:09:11][RBeliefBase][extractLiterals] [!R]
+[23:10:02][RBeliefBase][extractLiterals] [!R, Q]
+[23:10:02][RBeliefBase][extractLiterals] [R, !Q]
+[23:10:02][RBeliefBase][extractLiterals] [P]
+[23:10:02][RBeliefBase][extractLiterals] [!P, Q]
+[23:10:02][RBeliefBase][extractLiterals] [!R, Q]
+[23:10:02][RBeliefBase][extractLiterals] [R, !Q]
+[23:10:02][RBeliefBase][extractLiterals] [!R]
+[23:10:02][RBeliefBase][extractLiterals] [P]
+[23:10:02][RBeliefBase][extractLiterals] [!P, Q]
+[23:10:02][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:10:02][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:10:15][RBeliefBase][extractLiterals] [!R]
+[23:11:54][RBeliefBase][extractLiterals] [!R, Q]
+[23:11:54][RBeliefBase][extractLiterals] [R, !Q]
+[23:11:54][RBeliefBase][extractLiterals] [P]
+[23:11:54][RBeliefBase][extractLiterals] [!P, Q]
+[23:11:54][RBeliefBase][extractLiterals] [!R, Q]
+[23:11:54][RBeliefBase][extractLiterals] [R, !Q]
+[23:11:54][RBeliefBase][extractLiterals] [!R]
+[23:11:54][RBeliefBase][extractLiterals] [P]
+[23:11:54][RBeliefBase][extractLiterals] [!P, Q]
+[23:11:54][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:11:54][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:12:00][RBeliefBase][extractLiterals] [!R]
+[23:12:09][RBeliefBase][extractLiterals] [!R, Q]
+[23:12:09][RBeliefBase][extractLiterals] [R, !Q]
+[23:12:09][RBeliefBase][extractLiterals] [P]
+[23:12:09][RBeliefBase][extractLiterals] [!P, Q]
+[23:12:09][RBeliefBase][extractLiterals] [!R, Q]
+[23:12:09][RBeliefBase][extractLiterals] [R, !Q]
+[23:12:09][RBeliefBase][extractLiterals] [!R]
+[23:12:09][RBeliefBase][extractLiterals] [P]
+[23:12:09][RBeliefBase][extractLiterals] [!P, Q]
+[23:12:09][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:12:09][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:12:28][RBeliefBase][extractLiterals] [!R]
+[23:13:43][RBeliefBase][extractLiterals] [!R, Q]
+[23:13:43][RBeliefBase][extractLiterals] [R, !Q]
+[23:13:43][RBeliefBase][extractLiterals] [P]
+[23:13:43][RBeliefBase][extractLiterals] [!P, Q]
+[23:13:43][RBeliefBase][extractLiterals] [!R, Q]
+[23:13:43][RBeliefBase][extractLiterals] [R, !Q]
+[23:13:43][RBeliefBase][extractLiterals] [!R]
+[23:13:43][RBeliefBase][extractLiterals] [P]
+[23:13:43][RBeliefBase][extractLiterals] [!P, Q]
+[23:13:43][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:13:43][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:13:53][RBeliefBase][extractLiterals] [!R]
+[23:15:27][RBeliefBase][extractLiterals] [!R, Q]
+[23:15:27][RBeliefBase][extractLiterals] [R, !Q]
+[23:15:27][RBeliefBase][extractLiterals] [P]
+[23:15:27][RBeliefBase][extractLiterals] [!P, Q]
+[23:15:27][RBeliefBase][extractLiterals] [!R, Q]
+[23:15:27][RBeliefBase][extractLiterals] [R, !Q]
+[23:15:27][RBeliefBase][extractLiterals] [!R]
+[23:15:27][RBeliefBase][extractLiterals] [P]
+[23:15:27][RBeliefBase][extractLiterals] [!P, Q]
+[23:15:27][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:15:27][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:15:38][RBeliefBase][extractLiterals] [!R, Q]
+[23:15:38][RBeliefBase][extractLiterals] [R, !Q]
+[23:15:38][RBeliefBase][extractLiterals] [P]
+[23:15:38][RBeliefBase][extractLiterals] [!P, Q]
+[23:15:39][RBeliefBase][extractLiterals] [!R, Q]
+[23:15:39][RBeliefBase][extractLiterals] [R, !Q]
+[23:15:39][RBeliefBase][extractLiterals] [!R]
+[23:15:39][RBeliefBase][extractLiterals] [P]
+[23:15:39][RBeliefBase][extractLiterals] [!P, Q]
+[23:15:39][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:15:39][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:15:46][RBeliefBase][extractLiterals] [!R]
+[23:15:48][RBeliefBase][extractLiterals] [R]
+[23:16:12][RBeliefBase][extractLiterals] [!R, Q]
+[23:16:12][RBeliefBase][extractLiterals] [R, !Q]
+[23:16:12][RBeliefBase][extractLiterals] [P]
+[23:16:12][RBeliefBase][extractLiterals] [!P, Q]
+[23:16:12][RBeliefBase][extractLiterals] [!R, Q]
+[23:16:12][RBeliefBase][extractLiterals] [R, !Q]
+[23:16:12][RBeliefBase][extractLiterals] [!R]
+[23:16:12][RBeliefBase][extractLiterals] [P]
+[23:16:12][RBeliefBase][extractLiterals] [!P, Q]
+[23:16:12][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:16:12][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:16:13][RBeliefBase][extractLiterals] [!R, Q]
+[23:16:13][RBeliefBase][extractLiterals] [R, !Q]
+[23:16:13][RBeliefBase][extractLiterals] [P]
+[23:16:13][RBeliefBase][extractLiterals] [!P, Q]
+[23:16:13][RBeliefBase][extractLiterals] [!R, Q]
+[23:16:13][RBeliefBase][extractLiterals] [R, !Q]
+[23:16:13][RBeliefBase][extractLiterals] [!R]
+[23:16:13][RBeliefBase][extractLiterals] [P]
+[23:16:13][RBeliefBase][extractLiterals] [!P, Q]
+[23:16:13][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:16:13][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:17:49][RBeliefBase][extractLiterals] [P]
+[23:17:49][RBeliefBase][extractLiterals] [Q, !R]
+[23:17:49][RBeliefBase][extractLiterals] [R, !Q]
+[23:17:49][RBeliefBase][extractLiterals] [!P, Q]
+[23:17:49][RBeliefBase][extractLiterals] [Q, !R]
+[23:17:49][RBeliefBase][extractLiterals] [P]
+[23:17:49][RBeliefBase][extractLiterals] [R, !Q]
+[23:17:49][RBeliefBase][extractLiterals] [!P, Q]
+[23:17:49][RBeliefBase][extractLiterals] [!R]
+[23:17:49][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:17:49][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:17:49][RBeliefBase][extractLiterals] [P]
+[23:17:49][RBeliefBase][extractLiterals] [!P]
+[23:17:49][RBeliefBase][tryResolve] [[P], [Q, !R], [R, !Q], [!P, Q]]
+[23:19:49][RBeliefBase][extractLiterals] [P]
+[23:19:49][RBeliefBase][extractLiterals] [Q, !R]
+[23:19:49][RBeliefBase][extractLiterals] [R, !Q]
+[23:19:49][RBeliefBase][extractLiterals] [!P, Q]
+[23:19:49][RBeliefBase][extractLiterals] [Q, !R]
+[23:19:49][RBeliefBase][extractLiterals] [P]
+[23:19:49][RBeliefBase][extractLiterals] [R, !Q]
+[23:19:49][RBeliefBase][extractLiterals] [!P, Q]
+[23:19:49][RBeliefBase][extractLiterals] [!R]
+[23:19:49][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:19:49][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:19:49][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:20:06][RBeliefBase][extractLiterals] [P]
+[23:20:06][RBeliefBase][extractLiterals] [Q, !R]
+[23:20:06][RBeliefBase][extractLiterals] [R, !Q]
+[23:20:06][RBeliefBase][extractLiterals] [!P, Q]
+[23:20:06][RBeliefBase][extractLiterals] [Q, !R]
+[23:20:06][RBeliefBase][extractLiterals] [P]
+[23:20:06][RBeliefBase][extractLiterals] [R, !Q]
+[23:20:06][RBeliefBase][extractLiterals] [!P, Q]
+[23:20:06][RBeliefBase][extractLiterals] [!R]
+[23:20:06][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:20:06][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:20:06][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:20:36][RBeliefBase][extractLiterals] [!R, Q]
+[23:20:36][RBeliefBase][extractLiterals] [R, !Q]
+[23:20:36][RBeliefBase][extractLiterals] [P]
+[23:20:36][RBeliefBase][extractLiterals] [!P, Q]
+[23:20:36][RBeliefBase][extractLiterals] [!R, Q]
+[23:20:36][RBeliefBase][extractLiterals] [R, !Q]
+[23:20:36][RBeliefBase][extractLiterals] [!R]
+[23:20:36][RBeliefBase][extractLiterals] [P]
+[23:20:36][RBeliefBase][extractLiterals] [!P, Q]
+[23:20:36][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:20:36][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:21:07][RBeliefBase][extractLiterals] [!R, Q]
+[23:21:07][RBeliefBase][extractLiterals] [R, !Q]
+[23:21:07][RBeliefBase][extractLiterals] [P]
+[23:21:07][RBeliefBase][extractLiterals] [!P, Q]
+[23:21:07][RBeliefBase][extractLiterals] [!R, Q]
+[23:21:07][RBeliefBase][extractLiterals] [R, !Q]
+[23:21:07][RBeliefBase][extractLiterals] [!R]
+[23:21:07][RBeliefBase][extractLiterals] [P]
+[23:21:07][RBeliefBase][extractLiterals] [!P, Q]
+[23:21:07][RBeliefBase][resolve] [[!R], [P], [!R, Q], [R, !Q], [!P, Q]]
+[23:21:07][RBeliefBase][tryResolve] {[!R, Q]={P=[0], S=[0]}, [R, !Q]={P=[0], S=[0]}, [P]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:27:46][RBeliefBase][extractLiterals] [P]
+[23:27:46][RBeliefBase][extractLiterals] [Q, !R]
+[23:27:46][RBeliefBase][extractLiterals] [R, !Q]
+[23:27:46][RBeliefBase][extractLiterals] [!P, Q]
+[23:27:46][RBeliefBase][extractLiterals] [Q, !R]
+[23:27:46][RBeliefBase][extractLiterals] [P]
+[23:27:46][RBeliefBase][extractLiterals] [R, !Q]
+[23:27:46][RBeliefBase][extractLiterals] [!P, Q]
+[23:27:46][RBeliefBase][extractLiterals] [!R]
+[23:27:46][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:27:46][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}}
+[23:27:46][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [Q]={P=[0, 2], S=[4]}}
+[23:31:13][RBeliefBase][extractLiterals] [P]
+[23:31:13][RBeliefBase][extractLiterals] [Q, !R]
+[23:31:13][RBeliefBase][extractLiterals] [R, !Q]
+[23:31:13][RBeliefBase][extractLiterals] [!P, Q]
+[23:31:13][RBeliefBase][extractLiterals] [!R]
+[23:31:13][RBeliefBase][extractLiterals] [Q, !R]
+[23:31:13][RBeliefBase][extractLiterals] [P]
+[23:31:13][RBeliefBase][extractLiterals] [R, !Q]
+[23:31:13][RBeliefBase][extractLiterals] [!P, Q]
+[23:31:13][RBeliefBase][extractLiterals] [!R]
+[23:31:13][RBeliefBase][resolve] [[P], [!R], [Q, !R], [R, !Q], [!P, Q]]
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[5]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[5]}, [!Q]={P=[4, 1], S=[6]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[5]}, [!Q]={P=[4, 1], S=[6]}, [!R, R]={P=[1, 1], S=[7]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[5]}, [!Q]={P=[4, 1], S=[6]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}}
+[23:31:13][RBeliefBase][resolve] [[P], [!R], [Q], [!Q], [Q, !R], [R, !Q], [!P, Q], [!R, R], [Q, !Q], [!P, R]]
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[5]}, [!Q]={P=[4, 1], S=[6]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[6]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[6]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[0, 9], S=[10]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4], S=[4]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[0, 9], S=[10]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4, 7], S=[11]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[0, 9], S=[10]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4, 7], S=[11]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[0, 9], S=[10]}, [!P]={P=[11, 9], S=[11]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4, 7], S=[11]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[0, 9], S=[10]}, [!P]={P=[11, 9], S=[11]}, []={P=[10, 11], S=[12]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4, 7], S=[11]}, [Q]={P=[0, 2], S=[10]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 9], S=[11]}, []={P=[10, 11], S=[12]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[4, 7], S=[11]}, [Q]={P=[10, 8], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 9], S=[11]}, []={P=[10, 11], S=[12]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[11, 1], S=[13]}, [Q]={P=[10, 8], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 9], S=[11]}, []={P=[10, 11], S=[12]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[11, 1], S=[13]}, [Q]={P=[10, 8], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[10, 11], S=[12]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[11, 1], S=[13]}, [Q]={P=[10, 8], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[7]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[11, 1], S=[13]}, [Q]={P=[10, 8], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[8]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[11, 1], S=[13]}, [Q]={P=[10, 8], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[11, 1], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[9]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[4, 1], S=[11]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[14]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[1, 13], S=[14]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[14]}, [R]={P=[10, 1], S=[13]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2], S=[2]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[1, 13], S=[14]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[14]}, [R]={P=[1, 13], S=[14]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2, 13], S=[14]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[1, 13], S=[14]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[14]}, [R]={P=[1, 13], S=[14]}, [!P]={P=[11, 2], S=[13]}, []={P=[11, 8], S=[13]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2, 13], S=[14]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[1, 13], S=[14]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[14]}, [R]={P=[1, 13], S=[14]}, [!P]={P=[11, 2], S=[13]}, []={P=[13, 13], S=[14]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][tryResolve] {[P]={P=[0], S=[0]}, [Q, !R]={P=[1], S=[1]}, [R, !Q]={P=[1], S=[1]}, [!P, Q]={P=[2, 13], S=[14]}, [!R]={P=[1, 13], S=[13]}, [Q]={P=[1, 13], S=[13]}, [!Q]={P=[1, 13], S=[14]}, [!R, R]={P=[1, 1], S=[13]}, [Q, !Q]={P=[1, 1], S=[13]}, [!P, R]={P=[1, 2], S=[14]}, [R]={P=[1, 13], S=[14]}, [!P]={P=[13, 14], S=[14]}, []={P=[13, 13], S=[14]}, [Q, !P]={P=[1, 9], S=[13]}}
+[23:31:13][RBeliefBase][resolve] Resolved: [[], [!P], [Q], [!R], [R, !Q], [!Q], [Q, !R], [!P, Q], [Q], [R], [!P, R], [P], [!R, R], [Q, !Q], [!R], [Q, !P]]
