@@ -72,10 +72,10 @@ public class BeliefBase {
 
 	}
 
-	public static void main(String[] args) {
-		Log.debug(true);
-		new BeliefBase().checkBeliefs();
-	}
+//	public static void main(String[] args) {
+//		Log.debug(true);
+//		new BeliefBase().checkBeliefs();
+//	}
 
 	private void checkBeliefs() {
 		HashSet<Belief> CNFBeliefs = new HashSet<Belief>();
@@ -247,5 +247,5 @@ public class BeliefBase {
 	}
 	
 	
-
+	
 }

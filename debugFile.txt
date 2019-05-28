@@ -1,0 +1,249 @@
+[12:22:52][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[12:22:52][BeliefBase][checkBeliefs] (P -> Q)
+[12:22:52][BeliefBase][checkBeliefs] P
+[12:22:52][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[12:22:52][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[12:22:52][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[12:22:52][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[12:22:52][BeliefBase][checkBeliefs] before: P
+[12:22:52][BeliefBase][checkBeliefs]  after: P
+[12:22:52][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[12:22:52][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[12:22:52][BeliefBase][checkBeliefs] Distributing And over Or: 
+[12:22:52][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[12:22:52][BeliefBase][checkBeliefs] Coverted result: P
+[12:22:52][BeliefBase][checkBeliefs] No more And: 
+[12:22:52][BeliefBase][checkBeliefs] P
+[12:22:52][BeliefBase][checkBeliefs] (!P \/ Q)
+[12:22:52][BeliefBase][checkBeliefs] our nodes are:
+[12:22:52][BeliefBase][checkBeliefs] Then we know that:
+[12:52:55][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[12:52:55][BeliefBase][checkBeliefs] P
+[12:52:55][BeliefBase][checkBeliefs] (P -> Q)
+[12:52:55][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[12:52:55][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[12:52:55][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[12:52:55][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[12:52:55][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[12:52:55][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[12:52:55][BeliefBase][checkBeliefs] before: P
+[12:52:55][BeliefBase][checkBeliefs]  after: P
+[12:52:55][BeliefBase][checkBeliefs] Distributing And over Or: 
+[12:52:55][BeliefBase][checkBeliefs] Coverted result: P
+[12:52:55][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[12:52:55][BeliefBase][checkBeliefs] No more And: 
+[12:52:55][BeliefBase][checkBeliefs] P
+[12:52:55][BeliefBase][checkBeliefs] (!P \/ Q)
+[12:52:55][BeliefBase][checkBeliefs] our nodes are:
+[12:55:22][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[12:55:22][BeliefBase][checkBeliefs] (P -> Q)
+[12:55:22][BeliefBase][checkBeliefs] P
+[12:55:22][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[12:55:22][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[12:55:22][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[12:55:22][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[12:55:22][BeliefBase][checkBeliefs] before: P
+[12:55:22][BeliefBase][checkBeliefs]  after: P
+[12:55:22][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[12:55:22][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[12:55:22][BeliefBase][checkBeliefs] Distributing And over Or: 
+[12:55:22][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[12:55:22][BeliefBase][checkBeliefs] Coverted result: P
+[12:55:22][BeliefBase][checkBeliefs] No more And: 
+[12:55:22][BeliefBase][checkBeliefs] P
+[12:55:22][BeliefBase][checkBeliefs] (!P \/ Q)
+[12:55:22][BeliefBase][checkBeliefs] our nodes are:
+[12:55:22][BeliefBase][checkBeliefs] Then we know that:
+[12:58:06][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[12:58:06][BeliefBase][checkBeliefs] (P -> Q)
+[12:58:06][BeliefBase][checkBeliefs] P
+[12:58:06][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[12:58:06][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[12:58:06][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[12:58:06][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[12:58:06][BeliefBase][checkBeliefs] before: P
+[12:58:06][BeliefBase][checkBeliefs]  after: P
+[12:58:06][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[12:58:06][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[12:58:06][BeliefBase][checkBeliefs] Distributing And over Or: 
+[12:58:06][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[12:58:06][BeliefBase][checkBeliefs] Coverted result: P
+[12:58:06][BeliefBase][checkBeliefs] No more And: 
+[12:58:06][BeliefBase][checkBeliefs] P
+[12:58:06][BeliefBase][checkBeliefs] (!P \/ Q)
+[12:58:06][BeliefBase][checkBeliefs] our nodes are:
+[12:58:06][BeliefBase][checkBeliefs] Then we know that:
+[12:58:30][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[12:58:30][BeliefBase][checkBeliefs] P
+[12:58:30][BeliefBase][checkBeliefs] (P -> Q)
+[12:58:30][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[12:58:30][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[12:58:30][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[12:58:30][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[12:58:30][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[12:58:30][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[12:58:30][BeliefBase][checkBeliefs] before: P
+[12:58:30][BeliefBase][checkBeliefs]  after: P
+[12:58:30][BeliefBase][checkBeliefs] Distributing And over Or: 
+[12:58:30][BeliefBase][checkBeliefs] Coverted result: P
+[12:58:30][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[12:58:30][BeliefBase][checkBeliefs] No more And: 
+[12:58:30][BeliefBase][checkBeliefs] P
+[12:58:30][BeliefBase][checkBeliefs] (!P \/ Q)
+[12:58:30][BeliefBase][checkBeliefs] our nodes are:
+[13:05:03][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[13:05:03][BeliefBase][checkBeliefs] P
+[13:05:03][BeliefBase][checkBeliefs] (P -> Q)
+[13:05:03][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[13:05:03][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[13:05:03][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[13:05:03][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[13:05:03][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[13:05:03][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[13:05:03][BeliefBase][checkBeliefs] before: P
+[13:05:03][BeliefBase][checkBeliefs]  after: P
+[13:05:03][BeliefBase][checkBeliefs] Distributing And over Or: 
+[13:05:03][BeliefBase][checkBeliefs] Coverted result: P
+[13:05:03][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[13:05:03][BeliefBase][checkBeliefs] No more And: 
+[13:05:03][BeliefBase][checkBeliefs] P
+[13:05:03][BeliefBase][checkBeliefs] (!P \/ Q)
+[13:05:03][BeliefBase][checkBeliefs] our nodes are:
+[13:07:02][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[13:07:02][BeliefBase][checkBeliefs] P
+[13:07:02][BeliefBase][checkBeliefs] (P -> Q)
+[13:07:02][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[13:07:02][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[13:07:02][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[13:07:02][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[13:07:02][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[13:07:02][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[13:07:02][BeliefBase][checkBeliefs] before: P
+[13:07:02][BeliefBase][checkBeliefs]  after: P
+[13:07:02][BeliefBase][checkBeliefs] Distributing And over Or: 
+[13:07:02][BeliefBase][checkBeliefs] Coverted result: P
+[13:07:02][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[13:07:02][BeliefBase][checkBeliefs] No more And: 
+[13:07:02][BeliefBase][checkBeliefs] P
+[13:07:02][BeliefBase][checkBeliefs] (!P \/ Q)
+[13:07:02][BeliefBase][checkBeliefs] our nodes are:
+[13:08:17][BeliefBase][checkBeliefs] Then we know that:
+[13:11:16][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[13:11:16][BeliefBase][checkBeliefs] (P -> Q)
+[13:11:16][BeliefBase][checkBeliefs] P
+[13:11:16][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[13:11:16][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[13:11:16][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[13:11:16][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[13:11:16][BeliefBase][checkBeliefs] before: P
+[13:11:16][BeliefBase][checkBeliefs]  after: P
+[13:11:16][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[13:11:16][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[13:11:16][BeliefBase][checkBeliefs] Distributing And over Or: 
+[13:11:16][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[13:11:16][BeliefBase][checkBeliefs] Coverted result: P
+[13:11:16][BeliefBase][checkBeliefs] No more And: 
+[13:11:16][BeliefBase][checkBeliefs] P
+[13:11:16][BeliefBase][checkBeliefs] (!P \/ Q)
+[13:11:16][BeliefBase][checkBeliefs] our nodes are:
+[13:11:16][BeliefBase][checkBeliefs] Q
+[13:11:16][BeliefBase][checkBeliefs] Then we know that:
+[13:22:07][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[13:22:07][BeliefBase][checkBeliefs] P
+[13:22:07][BeliefBase][checkBeliefs] (P -> Q)
+[13:22:07][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[13:22:07][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[13:22:07][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[13:22:07][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[13:22:07][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[13:22:07][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[13:22:07][BeliefBase][checkBeliefs] before: P
+[13:22:07][BeliefBase][checkBeliefs]  after: P
+[13:22:07][BeliefBase][checkBeliefs] Distributing And over Or: 
+[13:22:07][BeliefBase][checkBeliefs] Coverted result: P
+[13:22:07][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[13:22:07][BeliefBase][checkBeliefs] No more And: 
+[13:22:07][BeliefBase][checkBeliefs] P
+[13:22:07][BeliefBase][checkBeliefs] (!P \/ Q)
+[13:22:07][BeliefBase][checkBeliefs] our nodes are:
+[15:52:08][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[15:52:08][BeliefBase][checkBeliefs] (P -> Q)
+[15:52:08][BeliefBase][checkBeliefs] P
+[15:52:08][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[15:52:08][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ Q)
+[15:52:08][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[15:52:08][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[15:52:08][BeliefBase][checkBeliefs] before: P
+[15:52:08][BeliefBase][checkBeliefs]  after: P
+[15:52:08][BeliefBase][checkBeliefs] before: (!P \/ Q)
+[15:52:08][BeliefBase][checkBeliefs]  after: (!P \/ Q)
+[15:52:08][BeliefBase][checkBeliefs] Distributing And over Or: 
+[15:52:08][BeliefBase][checkBeliefs] Coverted result: (!P \/ Q)
+[15:52:08][BeliefBase][checkBeliefs] Coverted result: P
+[15:52:08][BeliefBase][checkBeliefs] No more And: 
+[15:52:08][BeliefBase][checkBeliefs] P
+[15:52:08][BeliefBase][checkBeliefs] (!P \/ Q)
+[15:52:08][BeliefBase][checkBeliefs] our nodes are:
+[15:52:08][BeliefBase][checkBeliefs] Q
+[15:52:08][BeliefBase][checkBeliefs] Then we know that:
+[16:02:03][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[16:02:03][BeliefBase][checkBeliefs] ((P -> Q) /\ (R -> Q))
+[16:02:03][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[16:02:03][BeliefBase][checkBeliefs] Coverted to CNF belief model: ((!P \/ Q) /\ (!R \/ Q))
+[16:02:03][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[16:02:03][BeliefBase][checkBeliefs] before: ((!P \/ Q) /\ (!R \/ Q))
+[16:02:03][BeliefBase][checkBeliefs]  after: ((!P \/ Q) /\ (!R \/ Q))
+[16:02:03][BeliefBase][checkBeliefs] Distributing And over Or: 
+[16:02:03][BeliefBase][checkBeliefs] Coverted result: ((!P \/ Q) /\ (!R \/ Q))
+[16:02:03][BeliefBase][checkBeliefs] No more And: 
+[16:02:03][BeliefBase][checkBeliefs] (!R \/ Q)
+[16:02:03][BeliefBase][checkBeliefs] (!P \/ Q)
+[16:02:03][BeliefBase][checkBeliefs] our nodes are:
+[16:02:03][BeliefBase][checkBeliefs] Then we know that:
+[16:07:16][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[16:07:16][BeliefBase][checkBeliefs] P
+[16:07:16][BeliefBase][checkBeliefs] ((P -> Q) /\ (R -> Q))
+[16:07:16][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[16:07:16][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[16:07:16][BeliefBase][checkBeliefs] Coverted to CNF belief model: ((!P \/ Q) /\ (!R \/ Q))
+[16:07:16][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[16:07:16][BeliefBase][checkBeliefs] before: ((!P \/ Q) /\ (!R \/ Q))
+[16:07:16][BeliefBase][checkBeliefs]  after: ((!P \/ Q) /\ (!R \/ Q))
+[16:07:16][BeliefBase][checkBeliefs] before: P
+[16:07:16][BeliefBase][checkBeliefs]  after: P
+[16:07:16][BeliefBase][checkBeliefs] Distributing And over Or: 
+[16:07:16][BeliefBase][checkBeliefs] Coverted result: P
+[16:07:16][BeliefBase][checkBeliefs] Coverted result: ((!P \/ Q) /\ (!R \/ Q))
+[16:07:16][BeliefBase][checkBeliefs] No more And: 
+[16:07:16][BeliefBase][checkBeliefs] (!R \/ Q)
+[16:07:16][BeliefBase][checkBeliefs] (!P \/ Q)
+[16:07:16][BeliefBase][checkBeliefs] P
+[16:07:16][BeliefBase][checkBeliefs] our nodes are:
+[16:07:16][BeliefBase][checkBeliefs] Q
+[16:07:16][BeliefBase][checkBeliefs] Then we know that:
+[17:10:03][BeliefBase][checkBeliefs] Starting a new BeliefCheck on the model: 
+[17:10:03][BeliefBase][checkBeliefs] P
+[17:10:03][BeliefBase][checkBeliefs] (P -> (Q -> R))
+[17:10:03][BeliefBase][checkBeliefs] Starting a new CNF BeliefCheck on the model: 
+[17:10:03][BeliefBase][checkBeliefs] Coverted to CNF belief model: P
+[17:10:03][BeliefBase][checkBeliefs] Coverted to CNF belief model: (!P \/ (!Q \/ R))
+[17:10:03][BeliefBase][checkBeliefs] Moving Negation inwards: 
+[17:10:03][BeliefBase][checkBeliefs] before: (!P \/ (!Q \/ R))
+[17:10:03][BeliefBase][checkBeliefs]  after: (!P \/ (!Q \/ R))
+[17:10:03][BeliefBase][checkBeliefs] before: P
+[17:10:03][BeliefBase][checkBeliefs]  after: P
+[17:10:03][BeliefBase][checkBeliefs] Distributing And over Or: 
+[17:10:03][BeliefBase][checkBeliefs] Coverted result: P
+[17:10:03][BeliefBase][checkBeliefs] Coverted result: (!P \/ (!Q \/ R))
+[17:10:03][BeliefBase][checkBeliefs] No more And: 
+[17:10:03][BeliefBase][checkBeliefs] (!P \/ (!Q \/ R))
+[17:10:03][BeliefBase][checkBeliefs] P
+[17:10:03][BeliefBase][checkBeliefs] our nodes are:
+[17:10:03][BeliefBase][checkBeliefs] !Q
+[17:10:03][BeliefBase][checkBeliefs] R
+[17:10:03][BeliefBase][checkBeliefs] Then we know that:
+[11:10:24][RBeliefBase][SpookyResolution] our nodes are:
+[11:10:24][RBeliefBase][SpookyResolution] [Q]
+[11:10:24][RBeliefBase][SpookyResolution] [!P, Q]
+[11:10:24][RBeliefBase][SpookyResolution] [P]
+[11:10:24][RBeliefBase][SpookyResolution] Then we know that:
